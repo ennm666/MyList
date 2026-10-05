@@ -1,5 +1,13 @@
 # Browser Web Script
 
+## For Search Engine
+
+<details>
+
+- [Bing 自动完成任务](https://gitee.com/idbb98/microsoft-bing-rewards-daily-task-script/raw/master/BingRewards.user.js)
+
+</details>
+
 ## For Cloud storage
 
 <details>
