@@ -166,7 +166,7 @@ Cracker : [IDM_6.4x_Crack](https://github.com/ennm666/Myself/blob/main/PC/Window
 
 - [Bitcomet](https://bbs.itzmx.com/thread-117645-1-1.html)
 
-- [~~吸血雷~~](https://www.lanzouw.com/iJpWv3lve6fg)
+- [~~吸血雷~~]([https://www.lanzouw.com/iJpWv3lve6fg](https://www.mefcl.com/thunder12.html))
 >Tracker List `https://cf.trackerslist.com/all.txt`
 
 </details>
